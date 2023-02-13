@@ -1,4 +1,4 @@
-import React from "react";
+
 
 export const Address = () => {
   return (
@@ -7,3 +7,4 @@ export const Address = () => {
     </div>
   );
 };
+export default Address;

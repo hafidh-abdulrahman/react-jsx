@@ -1,10 +1,9 @@
-import React from "react";
-import Picture from "../profil.jpg";
-
 export const ProfilePhoto = () => {
   return (
-    <div>
-      <img src={Picture} width={"200"} />
+    <div className="App">
+      <img src= "profile.jpg"/>
     </div>
   );
 };
+
+export default ProfilePhoto;

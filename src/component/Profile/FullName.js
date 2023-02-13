@@ -1,5 +1,3 @@
-import React from "react";
-
 export const FullName = () => {
   return (
     <div>
@@ -7,3 +5,4 @@ export const FullName = () => {
     </div>
   );
 };
+export default FullName;
